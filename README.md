@@ -31,8 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-'''
-
+```
 <html>
 <head>
 <meta name="veiwport"
@@ -148,9 +147,7 @@ From Zero to Master
 </div>
 </body>
 </html>
-
-'''
-
+```
 ## OUTPUT:
 ![alt text](<Screenshot 2025-05-10 172228.png>)
 
